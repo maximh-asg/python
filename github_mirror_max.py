@@ -4,7 +4,7 @@ import sys
 import json
 import urllib.request
 import subprocess
-
+asf
 # configuration
 repos_of = ['maximh-ASG']
 backup_dir = os.path.expanduser('~/github') #'Z:\Rye\SCM\Repomirror'
